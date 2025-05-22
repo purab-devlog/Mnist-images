@@ -43,3 +43,11 @@ This drastically simplifies multiplication operations to additions and subtracti
 The dataset is automatically downloaded using TensorFlow’s dataset loader.
 
 ---
+
+## How to use this repo
+
+- These codes have been run and tested on google colab
+- You can run these on IDE or colab
+- First run Training.py
+- Then run Ternary_input_check.py, to check if the inputs are being forced to ternary
+- Then finally run the Final_run.py to see the model's output
