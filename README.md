@@ -4,13 +4,13 @@ This project presents a neural network implementation trained on the MNIST datas
 
 ---
 
-## 📌 Motivation
+##  Motivation
 
 In resource-constrained environments such as edge devices, minimizing power consumption and memory usage is critical. Ternary Neural Networks (TNNs) provide a lightweight alternative to full-precision models by using a discrete representation for weights and inputs. This project is part of a broader exploration into efficient AI for embedded systems, particularly targeting platforms like ARM and ESP32.
 
 ---
 
-## 🧠 What is a Ternary Neural Network?
+##  What is a Ternary Neural Network?
 
 A Ternary Neural Network is a type of neural network where weights and/or activations are restricted to three possible values:
 
@@ -22,7 +22,7 @@ This drastically simplifies multiplication operations to additions and subtracti
 
 ---
 
-## 🔍 Project Highlights
+##  Project Highlights
 
 - ✅ Uses the MNIST dataset for handwritten digit recognition.
 - ✅ Converts both input images and model weights to ternary format.
@@ -33,7 +33,7 @@ This drastically simplifies multiplication operations to additions and subtracti
 
 ---
 
-## 🗂️ Dataset Information
+## Dataset Information
 
 - **Name:** MNIST
 - **Size:** 60,000 training images, 10,000 test images
